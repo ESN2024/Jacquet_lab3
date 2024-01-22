@@ -1,4 +1,4 @@
-# ESN11 - Rapport Lab2
+# ESN11 - Rapport Lab3
 
 ## Objectifs
 Construire et programmer un système de base Nios II sur un FPGA DE10-Lite pour afficher les coordonnées x, y ou z de l'accéléromètre en liaison I2C. Les coordonnées sont affichés une par une sur 4 chiffres, respectivement sur 4 périphériques 7 segments, et nous pourrons passer d'une coordonnées à l'autre en cliquant sur un bouton poussoir.
@@ -98,7 +98,7 @@ Ce Makefile nous permettra de compiler notre code C ainsi que l'intégralité de
 que nous allons déployer le programme, et à l'aide de Nios2-terminale.exe suivre les retours renvoyé par nos alt_printf sur notre terminale.
 
 Voici la démonstration finale de notre programme en vidéo : 
-(https://github.com/ESN2024/Jacquet_lab2/blob/main/IMG_3173.MOV)
+[(https://github.com/ESN2024/Jacquet_lab2/blob/main/IMG_3173.MOV)](https://github.com/ESN2024/Jacquet_lab3/blob/main/IMG_3228.MOV)
 
 ## Conclusion
 
